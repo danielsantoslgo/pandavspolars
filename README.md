@@ -8,8 +8,8 @@ El análisis se realiza sobre un archivo CSV que contiene 10,000 filas de datos 
 
 El repositorio incluye los siguientes elementos:
 
-- `polars.py`: Script que realiza el análisis utilizando la biblioteca Polars.
-- `pandas.py`: Script que realiza el análisis utilizando la biblioteca Pandas.
+- `polars-do.py`: Script que realiza el análisis utilizando la biblioteca Polars.
+- `main.py`: Script que realiza el análisis utilizando la biblioteca Pandas.
 - `notebook.ipynb`: Notebook Jupyter que muestra una comparación entre Polars y Pandas en términos de facilidad de uso y rendimiento, junto con ejemplos de EDA.
   Carpeta `data`: Contiene el archivo `network_traffic.csv` con los datos de tráfico de red.
 
